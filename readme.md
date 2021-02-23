@@ -10,7 +10,7 @@
 <br />
 <p align="center">
   <a href="/">
-    <img src="docs/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://nodejs.org/static/images/logo.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Node-Boilerplate-Template</h3>
