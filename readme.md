@@ -18,14 +18,14 @@
   <p align="center">
     Boiler plate to instantly build standard structure for your nodejs project!
     <br />
-    <a href="https://github.com/sreemanthg/node-boiler-template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/sreemanthg/node-boilerplate-template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/sreemanthg/node-boiler-template">View Demo</a>
+    <a href="https://github.com/sreemanthg/node-boilerplate-template">View Demo</a>
     ·
-    <a href="https://github.com/sreemanthg/node-boiler-template/issues">Report Bug</a>
+    <a href="https://github.com/sreemanthg/node-boilerplate-template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/sreemanthg/node-boiler-template/issues">Request Feature</a>
+    <a href="https://github.com/sreemanthg/node-boilerplate-template/issues">Request Feature</a>
   </p>
 </p>
 
@@ -128,7 +128,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/sreemanthg/node-boiler-template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/sreemanthg/node-boilerplate-template/issues) for a list of proposed features (and known issues).
 
 
 
