@@ -64,7 +64,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://assets.justinmind.com/wp-content/uploads/2018/02/what-is-screen-mockup-header.png)
 
-<p align="center"><img src="https://assets.justinmind.com/wp-content/uploads/2018/02/what-is-screen-mockup-header.png" alt="Logo"></p>
+<!-- <p align="center"><img src="https://assets.justinmind.com/wp-content/uploads/2018/02/what-is-screen-mockup-header.png" alt="Logo"></p> -->
 There are many great Nodejs boilerplate templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a nodejs template so amazing that it'll be the last one you ever need -- I think this is it.
 
 Here's why:
@@ -194,4 +194,4 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [license-url]: https://github.com/SreemanthG/node-boilerplate-template/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/sreemanth-gourishetty-b60a48182/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://assets.justinmind.com/wp-content/uploads/2018/02/what-is-screen-mockup-header.png
