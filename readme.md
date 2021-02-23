@@ -10,7 +10,7 @@
 <br />
 <p align="center">
   <a href="/">
-    <img src="https://nodejs.org/static/images/logo.svg" alt="Logo" width="80" height="80">
+    <img src="https://nodejs.org/static/images/logo.svg" alt="Logo" width="120">
   </a>
 
   <h3 align="center">Node-Boilerplate-Template</h3>
@@ -64,6 +64,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://assets.justinmind.com/wp-content/uploads/2018/02/what-is-screen-mockup-header.png)
 
+<div style="text-align:center"><img src="https://assets.justinmind.com/wp-content/uploads/2018/02/what-is-screen-mockup-header.png" alt="Logo"></div>
 There are many great Nodejs boilerplate templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a nodejs template so amazing that it'll be the last one you ever need -- I think this is it.
 
 Here's why:
