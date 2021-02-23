@@ -62,7 +62,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://assets.justinmind.com/wp-content/uploads/2018/02/what-is-screen-mockup-header.png)
 
 There are many great Nodejs boilerplate templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a nodejs template so amazing that it'll be the last one you ever need -- I think this is it.
 
